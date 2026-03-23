@@ -16,8 +16,4 @@
 [submodule "Quantum"]
 	path = Quantum
 	url = https://github.com/SENODROOM/cplusplus.sa.git
-	branch = main
-
-
-
-    
+	branch = main    
